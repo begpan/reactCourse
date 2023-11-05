@@ -1,0 +1,18 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#map{
+    width: 100%;
+}
+
+html{
+    scroll-behavior: smooth !important;
+}
+
+img{
+    width: 100%;
+
+}
